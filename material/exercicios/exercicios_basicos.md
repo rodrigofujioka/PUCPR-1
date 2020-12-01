@@ -12,7 +12,7 @@ Exercícios de Fixação:
 
 5) Crie uma variável com valor de ponto flutuante com um valor qualquer e verifique se o valor desta variável está entre 1.99 e 5.99.
 
-6) Agora compare se o valor das variáveis acima são iguais.
+6) Agora compare se os valores das variáveis acima são iguais.
 
 
 # Estrutura de Controle.
