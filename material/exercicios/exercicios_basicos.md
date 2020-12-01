@@ -1,6 +1,6 @@
 Exercícios de Fixação:
 
-#Básico
+# Básico
 
 1) Declare uma variável que represente um número inteiro e inicie com o valor “10” e exiba o valor na tela.
 
