@@ -12,14 +12,14 @@ Exercícios de Fixação:
 
 5) Crie uma variável com valor de ponto flutuante com um valor qualquer e verifique se o valor desta variável está entre 1.99 e 5.99.
 
-6) Agora compare se o valor das duas variáveis acima é iguais.
+6) Agora compare se o valor das variáveis acima são iguais.
 
 
 # Estrutura de Controle.
 
 7. Faça um programa que receba o nome e o valor do salário de um funcionário, o percentual de aumento, enviados através de um formulário, calcule valor do aumento e o novo salário, e ao final exiba o nome do funcionário o valor do aumento e o novo salário que o mesmo obteve.
 
-8. A prefeitura de João Pessoa abriu uma linha de crédito para os funcionários municipais. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Fazer um script que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido. (comando if).
+8. A prefeitura de Curitba abriu uma linha de crédito para os funcionários municipais. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Fazer um script que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido. (comando if).
 
 
 # Fixação
